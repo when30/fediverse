@@ -1,2 +1,2 @@
-# mlops
-MLOps notes
+# c
+c notes
